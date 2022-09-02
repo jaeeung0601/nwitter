@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import App from './components/App';
-import firebase from './firebase';
+import firebase from './firebase'
 
 console.log(firebase)
 
@@ -11,4 +11,3 @@ root.render(
     <App />
   </React.StrictMode>
 );
-
